@@ -6,7 +6,7 @@ This is a simple Python project that demonstrates the following:
 - A multi-stage Dockerfile for building and deploying the application.
 
 ## Project Structure
-
+```
 ├── app/
 │ ├── init.py
 │ ├── calculator.py
@@ -16,7 +16,7 @@ This is a simple Python project that demonstrates the following:
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-
+```
 ## How to Run
 
 ### Using Docker
